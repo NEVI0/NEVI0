@@ -8,8 +8,8 @@ A enthusiastic programmer that loves working with JavaScript/Typescript applicat
 
 ### :mailbox: How to reach me?
 
-- [Instagram]('https://www.instagram.com/nevio_costa/')
-- [LinkedIn]('https://www.linkedin.com/in/n%C3%A9vio-magagnin-045710177/')
+- [Instagram]('https://www.instagram.com/nevio_costa/', 'dasdsa')
+- [LinkedIn]('https://www.linkedin.com/in/n%C3%A9vio-magagnin-045710177/', 'sadsa')
 - E-mail: neviocostamagagnin@gmail.com
 
 ### :pushpin: More about me...
