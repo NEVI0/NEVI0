@@ -10,7 +10,7 @@ A enthusiastic programmer that loves working with JavaScript/Typescript applicat
 
 - [Instagram]('https://www.instagram.com/nevio_costa/')
 - [LinkedIn]('https://www.linkedin.com/in/n%C3%A9vio-magagnin-045710177/')
-- **E-mail: ** neviocostamagagnin@gmail.com
+- E-mail: neviocostamagagnin@gmail.com
 
 ### :pushpin: More about me...
 
