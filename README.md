@@ -8,7 +8,7 @@ A enthusiastic programmer that loves working with JavaScript/Typescript applicat
 
 ### :mailbox: How to reach me?
 
-- Instagram: @nevio_costa
+- Instagram: ('https://www.instagram.com/nevio_costa/' '@nevio_costa')
 - LinkedIn: Névio Costa Magagnin
 - E-mail: neviocostamagagnin@gmail.com
 
