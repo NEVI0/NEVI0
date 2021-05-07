@@ -8,8 +8,8 @@ A enthusiastic programmer that loves working with JavaScript/Typescript applicat
 
 ### :mailbox: How to reach me?
 
-- Instagram: [@nevio_costa]('https://www.instagram.com/nevio_costa/' '@nevio_costa')
-- LinkedIn: Névio Costa Magagnin
+- Instagram: [@nevio_costa](https://www.instagram.com/nevio_costa/)
+- LinkedIn: [Névio Costa Magagnin](https://www.linkedin.com/in/n%C3%A9vio-magagnin-045710177/)
 - E-mail: neviocostamagagnin@gmail.com
 
 ### :pushpin: More about me...
@@ -19,5 +19,3 @@ A enthusiastic programmer that loves working with JavaScript/Typescript applicat
 - 💬 Ask me about **anything**
 - 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: **I love memes and games**
-
-<!-- https://www.instagram.com/nevio_costa/, https://www.linkedin.com/in/n%C3%A9vio-magagnin-045710177/ -->
