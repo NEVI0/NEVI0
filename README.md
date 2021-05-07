@@ -8,7 +8,7 @@ See official Alpha Controle web site [here](https://main.d35imh2be3wn9j.amplifya
 
 ### :zap: One line that describes me best?
 
-A enthusiastic programmer that loves working with JavaScript/Typescript applications.
+An enthusiastic programmer that loves working with JavaScript/Typescript applications.
 
 ### :mailbox: How to reach me?
 
