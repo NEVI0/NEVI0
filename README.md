@@ -19,7 +19,7 @@ An enthusiastic programmer that loves working with Javascript / Typescript appli
 
 ### :pushpin: More about me...
 
-- 🔭 I’m currently working on **Bruning Sistemas Ltda.**
+- 🔭 I’m currently working on **Vialaser Serviços Estéticos S.A**
 - :heart: My favorite programming language is **Python**
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **anything**
