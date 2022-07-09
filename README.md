@@ -1,3 +1,5 @@
+<img src="github-intro.png" alt="Intro banner">
+
 ### Hi there 👋
 
 My name is Névio Costa Magagnin and I'm a Full Stack developer, nice to meet you. I have been working with Node, Angular, Ionic, React and React Native about 2 years and you can check my repositories and see my code!
