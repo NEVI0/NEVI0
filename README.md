@@ -14,6 +14,10 @@ I am very skillful for web and mobile development, here are some of my bests ski
 - TypeScript
 - Python
 
+Visit my video chat application by [clicking here.](https://meet-compass.herokuapp.com/home) The **Meet Compass** is my first project with Next.js and WebRTC technology. Such a good project to improve a skill set!
+
+You can also follow me in my social networks.
+
 <br />
 
 <p>
