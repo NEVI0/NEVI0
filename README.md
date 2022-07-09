@@ -14,7 +14,7 @@ I am very skillful for web and mobile development, here are some of my bests ski
 - TypeScript
 - Python
 
-### Follow me :dart:
+<br /><br />
 
 <p>
   <a href="https://nevi0.github.io/" target="_blank" rel="noreferrer">
