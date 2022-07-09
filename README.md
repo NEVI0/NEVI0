@@ -14,9 +14,9 @@ I am very skillful for web and mobile development, here are some of my bests ski
 - TypeScript
 - Python
 
-Follow me in my social network for more
+### Follow me :dart:
 
-<p align="center">
+<p>
   <a href="https://nevi0.github.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" rel="noreferrer" alt="Website Badge">
   </a> 
