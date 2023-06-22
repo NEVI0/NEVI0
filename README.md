@@ -2,9 +2,9 @@
 
 ### Hello world :earth_americas:
 
-My name is Névio Costa Magagnin, a front-end developer with some full-stack skills and UI designer. I love working with software development since I started studying in 2018 in a technical course.
+My name is Névio Costa Magagnin, a full-stack developer with expertise in front-end and mobile development, and also with UI designer. I love working with software development since I started studying in 2018 in a technical course.
 
-I am always trying my best to improve my skills. For that, I have been working in personal projects, company projects and freelancers. For the future I want to become a great Software Engineer and have my own company.
+I am always trying my best to improve my skills. For that, I have been working in personal projects, company projects and freelancers. For the future I want to become a great Software Engineer.
 
 I am very skillful for web and mobile development, here are some of my bests skills:
 - React
@@ -13,8 +13,7 @@ I am very skillful for web and mobile development, here are some of my bests ski
 - JavaScript
 - TypeScript
 - Python
-
-Visit my video chat application by [clicking here.](https://meet-compass.herokuapp.com/home) The **Meet Compass** is my first project with Next.js and WebRTC technology. Such a good project to improve a skill set!
+- Flutter
 
 You can also follow me in my social networks.
 
