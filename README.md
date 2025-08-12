@@ -12,3 +12,7 @@ I am very skillful for web and mobile development, here are some of my bests ski
 - Next
 - TypeScript
 - Python
+
+Check it out my own project, you gonna like it: [Release Fast](https://www.releasefast.io/)
+
+:smiley::v:
