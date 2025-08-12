@@ -1,19 +1,17 @@
-<img src="github-intro.png" alt="Intro banner">
-
 ### Hello world :earth_americas:
 
-My name is Névio Costa Magagnin, a full-stack developer with expertise in front-end and mobile development, and also with UI designer. I love working with software development since I started studying in 2018 in a technical course.
+I’m a software engineer specializing in building modern, efficient digital solutions with a strong focus on performance, scalability, and user experience. I have solid experience developing web applications using Next.js, React, and TypeScript, as well as mobile apps with React Native.
 
-I am always trying my best to improve my skills. For that, I have been working in personal projects, company projects and freelancers. For the future I want to become a great Software Engineer.
+My work combines best coding practices with user-centered design, merging UX/UI to deliver products that not only work flawlessly but also delight users.
+
+Always open to new challenges, innovative projects, and opportunities to create products that make an impact.
 
 I am very skillful for web and mobile development, here are some of my bests skills:
 - React
 - React Native
 - Next
-- JavaScript
 - TypeScript
 - Python
-- Flutter
 
 You can also follow me in my social networks.
 
